@@ -7,4 +7,4 @@ Meu interesse no projeto se deu em fixar conceitos já estudados de HTML, CSS e 
 <h2>Print do resultado do projeto</h2>
 <img src="./image/imagemTela.png">
 <hr>
-Esse projeto é de uma calculadora onde é possível fazer cálculos com operadores básicos.
+Esse projeto é de uma calculadora com operadores básicos.
